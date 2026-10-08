@@ -2,7 +2,7 @@ package Exercise1;
 
 import java.util.*;
 
-public class Question3 {
+public class  greatestNumber {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter the First number :");

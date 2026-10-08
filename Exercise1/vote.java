@@ -1,7 +1,7 @@
 package Exercise1;
 
 import java.util.*;
-public class Question5 {
+public class vote {
     public static void main(String[] args){
         Scanner sc=new Scanner(System.in);
         System.out.print("Enter your age :");
